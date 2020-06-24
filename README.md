@@ -1,0 +1,2 @@
+# BetterBookshelfs
+Plugin for bookshelfs
