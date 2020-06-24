@@ -1,0 +1,4 @@
+name: BetterBookshelfs
+version: ${project.version}
+main: play.criticalcraft.betterbookshelfs.BetterBookshelfs
+api-version: 1.15.2
